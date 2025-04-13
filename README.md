@@ -1,8 +1,8 @@
 ## Ad Astra Per Aspera...
 # 💫 About Me:
 🎓 I’m currently pursuing on my masters degree in network and systems engineering<br>
-🧠 I’m currious and love learning! Exploring how systems work is one of my favourite hobbies
-⚡ I’m passioneted about fast and reliable communication and software
+🧠 I’m currious and love learning! Exploring how systems work is one of my favourite hobbies<br>
+⚡ I’m passioneted about fast and reliable communication and software<br>
 💾 I’m an IEEE UP Student Branch Computer Society member<br>
 🌱 I’m currently Studying for my CCNA (Cisco Certified Network Associate)<br>
 💬 I’m currently learning German<br>
